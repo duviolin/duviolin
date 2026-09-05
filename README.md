@@ -18,6 +18,8 @@ Engenheiro de Computação (UFPA) com **8+ anos** de desenvolvimento de software
 
 🤖 Uso **IA Generativa no dia a dia de engenharia** (GitHub Copilot, Claude, StackSpot AI, agentes especializados e **Spec-Driven Development**) para acelerar análise, refinamento, documentação, testes e decisão técnica.
 
+🧭 Levo **Spec-Driven Development a sério no dia a dia** — a ponto de ter criado e mantido o **[sdd-kit](https://github.com/duviolin/sdd-kit)**, um plugin open-source que empacota meu fluxo SDD para o **Claude Code**: do pedido cru ao merge com aprovação humana, requisitos em EARS, rastreabilidade, trava de execução e QA — tudo auditado no próprio repositório.
+
 📚 Documento em público minha jornada rumo a **especialista Android** — estudando com IA e construindo um app real do zero à Play Store. **[Veja a trilha →](https://duviolin.github.io/)**
 
 ---
@@ -28,6 +30,7 @@ Engenheiro de Computação (UFPA) com **8+ anos** de desenvolvimento de software
 |---|---|---|
 | 🛡️ **[NexusHub](https://github.com/duviolin/nexushubapp)** | Leitor editorial de notícias técnicas com **IA on-device** (Gemini Nano) — resumo local, sem enviar dados à nuvem. Design-first, adaptativo e acessível. Acompanha uma **[trilha de 17 artigos](https://duviolin.github.io/)** do build à publicação. | Kotlin · Compose · MVI + Clean Arch · multi-módulo · Gemini Nano · Room/WorkManager |
 | 🎼 **[Clave](https://clavedesales.com.br)** | Plataforma educacional completa de ponta a ponta — mobile + API + infra + CI/CD. | Flutter · Node.js/Express · Prisma · PostgreSQL · GitHub Actions |
+| 🧭 **[sdd-kit](https://github.com/duviolin/sdd-kit)** | Plugin de **Spec-Driven Development** para o Claude Code: 9 skills que levam do pedido cru ao merge com aprovação humana, EARS, rastreabilidade, trava de execução e QA — auditoria persistida no repo. **[Página →](https://duviolin.github.io/sdd-kit/)** | Claude Code · Skills · Hooks · Markdown |
 
 ---
 
